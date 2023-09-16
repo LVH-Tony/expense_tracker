@@ -1,7 +1,3 @@
-Sure, I have added emojis to different sections of the README file to make it more visually appealing:
-
----
-
 # 📚 Rumi Press Expense Tracker
 
 Developed a Django-based expense tracker app to facilitate Rumi Press in managing book distribution expenses efficiently. Hosted on Heroku, the app ensures data security and offers insightful visual reports.
